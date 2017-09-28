@@ -8,7 +8,7 @@
     "php": ">=5.3.0"
   },
   "autoload" : {
-    "ps4": {
+    "ps-4": {
       "basic-cart-application\\":"src"
     }
   }
