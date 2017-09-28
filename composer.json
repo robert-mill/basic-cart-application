@@ -1,0 +1,9 @@
+{
+  "autoload" : {
+    "ps4": {
+      "basic-cart-application\\":"src"
+    }
+  }
+}
+
+//https://github.com/robert-mill/basic-cart-application.git
