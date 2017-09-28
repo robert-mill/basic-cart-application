@@ -1,4 +1,8 @@
 {
+  "name" : "robert-mill/basic-cart-application",
+  "type": "library",
+  "license": "MIT",
+  "Minimum-stability":"dev",
   "autoload" : {
     "ps4": {
       "basic-cart-application\\":"src"
