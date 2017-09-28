@@ -7,12 +7,9 @@
   "require": {
     "php": ">=5.3.0"
   },
-
   "autoload" : {
     "ps4": {
       "basic-cart-application\\":"src"
     }
   }
 }
-
-//https://github.com/robert-mill/basic-cart-application.git
